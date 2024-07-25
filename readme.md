@@ -8,5 +8,5 @@
 
 Official documentation for Forms & Html for The Laravel Framework can be found at the [LaravelCollective](https://laravelcollective.com/docs) website.
 
-## This is the forked library of [laravel](https://github.com/LaravelCollective/html) to work with laravel 11
+## This is the forked library of [laravel collective form](https://github.com/LaravelCollective/html) to work with laravel 11
  Original Document https://laravelcollective.com/docs/6.x/html
