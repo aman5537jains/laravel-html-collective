@@ -10,3 +10,12 @@ Official documentation for Forms & Html for The Laravel Framework can be found a
 
 ## This is the forked library of [laravel collective form](https://github.com/LaravelCollective/html) to work with laravel 11
  Original Document https://laravelcollective.com/docs/6.x/html
+ 
+## Installation
+### 1 - Dependency
+The first step is using composer to install the package and automatically update your `composer.json` file, you can do this by running:
+```shell
+composer require laravelcollectiveforked/html
+``` 
+
+Rest Use the same installation guide as official documentation
